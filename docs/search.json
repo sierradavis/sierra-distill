@@ -2,11 +2,10 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "Sierra Davis",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-01-25T08:34:49-06:00"
+      "contents": "\nI am a classically trained data scientist living in the San Francisco Bay Area. Currently I work on the Oculus team at Facebook. I love talking about baseball, true crime podcasts, and causal inference.\n\n\n\n",
+      "last_modified": "2021-01-25T08:54:51-06:00"
     },
     {
       "path": "index.html",
@@ -14,7 +13,7 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-01-25T08:34:50-06:00"
+      "last_modified": "2021-01-25T08:54:52-06:00"
     }
   ],
   "collections": []
